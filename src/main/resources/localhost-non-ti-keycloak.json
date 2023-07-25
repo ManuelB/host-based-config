@@ -1,0 +1,8 @@
+{
+	"realm": "non-ti",
+	"auth-server-url": "https://id.med-united.de/",
+	"ssl-required": "external",
+	"resource": "web",
+	"public-client": true,
+	"confidential-port": 0
+}
